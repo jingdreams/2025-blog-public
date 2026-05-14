@@ -11,8 +11,8 @@
 		"width": 360,
 		"height": 288,
 		"order": 1,
-		"offsetX": -196,
-		"offsetY": -125,
+		"offsetX": -193,
+		"offsetY": -131,
 		"enabled": true
 	},
 	"clockCard": {
@@ -37,8 +37,8 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": -171,
-		"offsetY": 242,
+		"offsetX": -164,
+		"offsetY": 240,
 		"enabled": true
 	},
 	"socialButtons": {
@@ -85,8 +85,8 @@
 		"width": 54,
 		"height": 54,
 		"order": 8,
-		"offsetX": 443,
-		"offsetY": -276,
+		"offsetX": 438,
+		"offsetY": -222,
 		"enabled": true
 	},
 	"hatCard": {
