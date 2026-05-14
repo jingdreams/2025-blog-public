@@ -31,12 +31,12 @@ const list = [
 		label: '近期文章',
 		href: '/blog'
 	},
-	{
-		icon: ProjectsOutlineSVG,
-		iconActive: ProjectsFilledSVG,
-		label: '我的项目',
-		href: '/projects'
-	},
+	// {
+	// 	icon: ProjectsOutlineSVG,
+	// 	iconActive: ProjectsFilledSVG,
+	// 	label: '我的项目',
+	// 	href: '/projects'
+	// },
 	{
 		icon: AboutOutlineSVG,
 		iconActive: AboutFilledSVG,
@@ -49,12 +49,12 @@ const list = [
 		label: '推荐分享',
 		href: '/share'
 	},
-	{
-		icon: WebsiteOutlineSVG,
-		iconActive: WebsiteFilledSVG,
-		label: '优秀博客',
-		href: '/bloggers'
-	}
+	// {
+	// 	icon: WebsiteOutlineSVG,
+	// 	iconActive: WebsiteFilledSVG,
+	// 	label: '优秀博客',
+	// 	href: '/bloggers'
+	// }
 ]
 
 const extraSize = 8
